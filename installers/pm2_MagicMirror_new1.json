@@ -1,0 +1,9 @@
+{
+	"apps": [
+		{
+			"name": "MagicMirror",
+			"script": "/Users/Aereli/MagicMirror/installers/mm.sh",
+			"watch": ["/Users/Aereli/MagicMirror/config/config.js"]
+		}
+	]
+}
